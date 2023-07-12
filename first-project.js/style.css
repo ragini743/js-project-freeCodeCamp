@@ -12,7 +12,7 @@ input{
     background-color: inherit;
     border: none;
     width: inherit;
-    margin-bottom: 4rem;
+    margin:10px 10px 4rem 10px;
 }
 button{
     display: block;
